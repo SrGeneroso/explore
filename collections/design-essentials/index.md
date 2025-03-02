@@ -3,6 +3,7 @@ items:
  - twbs/bootstrap
  - animate-css/animate.css
  - nathansmith/960-Grid-System
+ - argyleink/open-props
  - necolas/normalize.css
  - ionic-team/ionicons
  - designmodo/Flat-UI
